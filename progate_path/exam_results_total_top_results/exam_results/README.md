@@ -40,6 +40,7 @@ average: 208
 ```
 
 ## ファイル構成
+```bash
 exam_result/
 ├── tests/     
     └── top_results.test.js # プロジェクトのテストファイル。各ページや機能を自動テスト。
@@ -48,3 +49,4 @@ exam_result/
 └── src/　　# プロジェクトのメインフォルダ。主にこのフォルダに実装。
     └── results.js # 本機能処理用ファイルにインポートする生徒データ。
     └── top_results.js　#本機能メイン実装ファイル
+```
