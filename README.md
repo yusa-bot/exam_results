@@ -50,3 +50,6 @@ exam_result/
     └── results.js # 本機能処理用ファイルにインポートする生徒データ。
     └── top_results.js　#本機能メイン実装ファイル
 ```
+
+## LICENSE
+progate path [試験結果から成績優秀者を抽出しよう](https://app.path.progate.com/tasks/xs9OUOj2UpLDdfbXkZVRQ/pages/overview)
